@@ -9,4 +9,4 @@ used the normal here :
 
 * HTML 
 * CSS (Bootstrap)
-* JS # Covid-19
+* JS 
