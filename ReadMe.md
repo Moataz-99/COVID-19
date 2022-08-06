@@ -1,8 +1,8 @@
-#COVID-29
+# COVID-29
 
 This is my first Front-end template, that i created when i started learning Web development 
 
-##Discreption 
+## Discreption 
 
 used the normal here :
 
